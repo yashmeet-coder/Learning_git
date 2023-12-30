@@ -1,7 +1,4 @@
 hello world.............
 this is himanshu dakariya!
 how are you all
-Today I am trying to learn some basics of gitHub
-well it is nice 
-------Thankyou------------
--Date-25/01/2023
+
